@@ -29,6 +29,9 @@ The application uses **Google Gemini AI**, real-time **voice communication**, an
   - Girl
   - Old Doctor
 - Natural speech synthesis and audio responses
+- ### Interface
+<p align="center">
+<img src="images/interface.png" width="500"></p>
 
 ### 💬 AI Chat Assistant
 - Text-based medical assistant
@@ -36,6 +39,10 @@ The application uses **Google Gemini AI**, real-time **voice communication**, an
   - User profile
   - Vitals
   - Medications
+### Patient Profile
+<p align="center">
+<img src="images/patient profile.png" width="400">
+</p>
 
 ### ❤️ Health Monitoring
 Track personal health metrics:
