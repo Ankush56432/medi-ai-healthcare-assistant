@@ -1,0 +1,8 @@
+{
+  "name": "MediAI Pro: Health Intelligence",
+  "description": "An advanced AI-powered health companion featuring voice-based consultation, symptom checking, wellness tracking, and medical record management.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
