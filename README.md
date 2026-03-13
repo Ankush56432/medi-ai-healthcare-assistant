@@ -62,7 +62,7 @@ Add and manage medications:
 - Start date
  ### wellness
 <p align="center">
-<img src="images/wellmess.png" width="500"></p>
+<img src="images/wellness.png" width="500"></p>
 
 ---
 
@@ -76,7 +76,7 @@ Schedule and manage doctor appointments:
 - Reason for visit
  ### Appoinments
 <p align="center">
-<img src="images/appoinments.png" width="500"></p>
+<img src="images/appointements.png" width="500"></p>
 
 ---
 
