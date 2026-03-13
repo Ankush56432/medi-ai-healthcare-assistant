@@ -13,8 +13,8 @@ The application uses **Google Gemini AI**, real-time **voice communication**, an
 ### Input → Output
 
 <p align="center">
-<img src="images/original.png" width="350">
-<img src="images/result.png" width="350">
+<img src="images/interface.png" width="500">
+<img src="images/patient profile.png" width="400">
 </p>
 
 
