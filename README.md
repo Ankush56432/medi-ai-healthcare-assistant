@@ -9,14 +9,6 @@ MediAI Pro is an **AI-powered health assistant web application** that combines *
 
 The application uses **Google Gemini AI**, real-time **voice communication**, and **health monitoring tools** to provide an interactive healthcare companion.
 
----
-### Input → Output
-
-<p align="center">
-<img src="images/interface.png" width="500">
-<img src="images/patient profile.png" width="400">
-</p>
-
 
 # 🚀 Features
 
@@ -29,7 +21,7 @@ The application uses **Google Gemini AI**, real-time **voice communication**, an
   - Girl
   - Old Doctor
 - Natural speech synthesis and audio responses
-- ### Interface
+ ### Interface
 <p align="center">
 <img src="images/interface.png" width="500"></p>
 
@@ -53,6 +45,10 @@ Track personal health metrics:
 - Weight
 
 All vitals are saved locally and can be updated anytime.
+ ### Vitals
+<p align="center">
+<img src="images/vitals.png" width="500"></p>
+
 
 ---
 
@@ -64,6 +60,9 @@ Add and manage medications:
 - Dosage
 - Frequency
 - Start date
+ ### wellness
+<p align="center">
+<img src="images/wellmess.png" width="500"></p>
 
 ---
 
@@ -75,6 +74,9 @@ Schedule and manage doctor appointments:
 - Specialty
 - Date and time
 - Reason for visit
+ ### Appoinments
+<p align="center">
+<img src="images/appoinments.png" width="500"></p>
 
 ---
 
@@ -86,6 +88,9 @@ Describe symptoms and get AI analysis including:
 - Self-care advice
 - Urgency level
 - When to see a doctor
+ ### Systom analysis
+<p align="center">
+<img src="images/systom analysis.png" width="500"></p>
 
 ---
 
